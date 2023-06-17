@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio - Juancito Peña</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      padding-top: 70px;
+    }
+    .navbar {
+      background-color: #111;
+      border-bottom: 1px solid #444;
+    }
+    .navbar-brand {
+      color: #fff;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .navbar-nav .nav-link {
+      color: #fff;
+    }
+    .section {
+      padding: 50px 0;
+    }
+    .section-heading {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .section-heading h2 {
+      font-size: 32px;
+      font-weight: bold;
+    }
+    .profile-image {
+      border-radius: 50%;
+      margin-bottom: 20px;
+      animation: heartbeat 1.5s infinite;
+    }
+    @keyframes heartbeat {
+      0% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.1);
+      }
+       100% {
+        transform: scale(1);
+      }
+    }
+    .bio {
+      font-size: 18px;
+      font-weight: 500;
+      text-align: center;
+    }
+    .project-card {
+      border: none;
+      background-color: transparent;
+    }
+    .project-card .card-img-top {
+      height: 200px;
+      object-fit: cover;
+    }
+    .video-card .card-img-top {
+      height: 200px;
+      object-fit: cover;
+    }
+    .contact-form {
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    .footer {
+      background-color: #111;
+      padding: 30px 0;
+      color: #fff;
+      text-align: center;
+    }
+    .footer .social-icons {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    .footer .social-icons a {
+      color: #fff;
+      margin: 0 5px;
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Juancito Peña</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="#profile">Perfil</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#projects">Proyectos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#videos">Videos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">Contacto</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <section id="profile" class="section">
+    <div class="container">
+      <div class="section-heading">
+        <h2>Desarrollador Frontend y Backend </h2>
+      </div>
+      <div class="text-center">
+        <img src="https://dummyimage.com/200x200/ccc/000" alt="Profile Image" class="profile-image">
+        <h3>Juancito Peña</h3>
+        <p class="bio">Ingeniero en Sistemas y Computación | Programación | Frontend y Backend | Análisis de Datos</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="projects" class="section bg-dark">
+    <div class="container">
+      <div class="section-heading text-center">
+        <h2>Proyectos</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="card project-card">
+            <img src="https://dummyimage.com/500x300/ccc/000" class="card-img-top" alt="Project 1">
+            <div class="card-body">
+              <h5 class="card-title">Proyecto 1</h5>
+              <p class="card-text">Descripción del proyecto 1.</p>
+              <a href="#" class="btn btn-primary">Ver</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="card project-card">
+            <img src="https://dummyimage.com/500x300/ccc/000" class="card-img-top" alt="Project 2">
+            <div class="card-body">
+              <h5 class="card-title">Proyecto 2</h5>
+              <p class="card-text">Descripción del proyecto 2.</p>
+              <a href="#" class="btn btn-primary">Ver</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="card project-card">
+            <img src="https://dummyimage.com/500x300/ccc/000" class="card-img-top" alt="Project 3">
+            <div class="card-body">
+              <h5 class="card-title">Proyecto 3</h5>
+              <p class="card-text">Descripción del proyecto 3.</p>
+              <a href="#" class="btn btn-primary">Ver</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="videos" class="section">
+    <div class="container">
+      <div class="section-heading text-center">
+        <h2>Videos</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="card video-card">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_1" allowfullscreen></iframe>
+            <div class="card-body">
+              <h5 class="card-title">Video 1</h5>
+              <p class="card-text">Descripción del video 1.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="card video-card">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_2" allowfullscreen></iframe>
+            <div class="card-body">
+              <h5 class="card-title">Video 2</h5>
+              <p class="card-text">Descripción del video 2.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="card video-card">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_3" allowfullscreen></iframe>
+            <div class="card-body">
+              <h5 class="card-title">Video 3</h5>
+              <p class="card-text">Descripción del video 3.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section bg-dark">
+    <div class="container">
+      <div class="section-heading text-center">
+        <h2>Contacto</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <form class="contact-form">
+            <div class="mb-3">
+              <label for="name" class="form-label">Nombre</label>
+              <input type="text" class="form-control" id="name" required>
+            </div>
+            <div class="mb-3">
+              <label for="email" class="form-label">Correo Electrónico</label>
+              <input type="email" class="form-control" id="email" required>
+            </div>
+            <div class="mb-3">
+              <label for="message" class="form-label">Mensaje</label>
+              <textarea class="form-control" id="message" rows="5" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="social-icons">
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-linkedin"></i></a>
+      </div>
+      <p>&copy; 2023 Juancito Peña. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
