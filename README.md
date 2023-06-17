@@ -9,6 +9,9 @@ Asume el rol de un Desarrollo Web experto en UI/UX, y Crea un script para una pa
 
 ## Link del Portafolio funcionando en GitHub Pages: https://juancitopena.github.io/PORTAFOLIO_HTML_CHATGPP/
 
+## Fotos:
+![](PORTAFOLIO_CHATGPT_RESPONSIVE.png)
+
 ## VIDEO DEL CANAL: https://www.youtube.com/@JuancitoPenaV
 
 ChatGPT es un modelo de lenguaje desarrollado por OpenAI, basado en la arquitectura GPT-3.5. y que hoy dia cuanta con la version GPT4.0. Este modelo ha demostrado ser extremadamente útil en una amplia variedad de aplicaciones, pero lo que realmente lo ha catapultado a la fama es su habilidad para generar conversaciones de manera fluida y coherente.
@@ -37,5 +40,4 @@ Así que, si eres un desarrollador o simplemente te apasiona la tecnología o er
 ### 6-🐦 Twitter: https://twitter.com/JuancitoPenaV
 
 
-## Fotos:
-![](PORTAFOLIO_CHATGPT_RESPONSIVE.png)
+
