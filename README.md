@@ -3,9 +3,9 @@ PORTAFOLIO_HTML_CSS_BOOTSTRAP_CHATGPP
 
 Hola, aqui te dejo el siguiente proyecto, es una Pagina Web basica creada con un Prompt por CHATGPT, el cual tambien te dejo aqui y que te comparto el video tambien:
 
-PROMPT PERSONALIZADO:
+## PROMPT PERSONALIZADO:
 
-### Asume el rol de un Desarrollo Web experto en UI/UX, y Crea un script para una pagina web tipo portafolio en html, bootstrap, con 6 secciones, la seccion # 1-debe tener Menu fijo en la parte superior o navbar-toggler con el pelfil, proyectos, videos, contactos, Seccion # 2 que sea la del peril con un h2 con el titulo Desarrollador Fronted (UI/UX) centrado al centro del en el body, debajo con una fotogragia tambien centrada con una separacion adecuada del menu top y titulo h2 de abrriba, la iamgen tiene que ser circular, con bordes, y una animacion con efecto de latidos de corazon suave y sutil tipo https://dummyimage.com/200x200/ccc/000,  debajo de la imagen el nombre: Juancito Peña, y debajo de este texto otro parrafo con la BIO: Ingeniero en Sistemas y Computación | Programación | Frontend y Backend | Análisis de Datos, 3-Seccion con un encabezado que diga Proyectos, con 3 card juntas en pantalla grande y responsive una, las card deben tener una fotografia del proyecto TIPO dummyimage, descripcion,  y boton que diga ver, 4-Seccion con 3 card  para videos TIPO (<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_1" allowfullscreen></iframe>) con nombre y descripcion que sean de youtube, y 5-Seccion que diga Contactos, en la cual se genere un formulario de contacto basico estilo minimalista, y al final 6- Seccion llamada Footer que tenga  varios iconos y el footer, recordar el menu fijo.y en el footer los iconos de redes sociales, asegurate de llamar en todos los casos las cdn tanto de bootstrap como la de los iconos. EL formato que sea un dark, con blancos y rojos. Nota todos los botones deben estar al centrados. y los demas elementos como imagenes, iconos, textos tambien centrados, Recordar hacerlo para un aprendiz de programacion y comentale el codigo.
+Asume el rol de un Desarrollo Web experto en UI/UX, y Crea un script para una pagina web tipo portafolio en html, bootstrap, con 6 secciones, la seccion # 1-debe tener Menu fijo en la parte superior o navbar-toggler con el pelfil, proyectos, videos, contactos, Seccion # 2 que sea la del peril con un h2 con el titulo Desarrollador Fronted (UI/UX) centrado al centro del en el body, debajo con una fotogragia tambien centrada con una separacion adecuada del menu top y titulo h2 de abrriba, la iamgen tiene que ser circular, con bordes, y una animacion con efecto de latidos de corazon suave y sutil tipo https://dummyimage.com/200x200/ccc/000,  debajo de la imagen el nombre: Juancito Peña, y debajo de este texto otro parrafo con la BIO: Ingeniero en Sistemas y Computación | Programación | Frontend y Backend | Análisis de Datos, 3-Seccion con un encabezado que diga Proyectos, con 3 card juntas en pantalla grande y responsive una, las card deben tener una fotografia del proyecto TIPO dummyimage, descripcion,  y boton que diga ver, 4-Seccion con 3 card  para videos TIPO (<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_1" allowfullscreen></iframe>) con nombre y descripcion que sean de youtube, y 5-Seccion que diga Contactos, en la cual se genere un formulario de contacto basico estilo minimalista, y al final 6- Seccion llamada Footer que tenga  varios iconos y el footer, recordar el menu fijo.y en el footer los iconos de redes sociales, asegurate de llamar en todos los casos las cdn tanto de bootstrap como la de los iconos. EL formato que sea un dark, con blancos y rojos. Nota todos los botones deben estar al centrados. y los demas elementos como imagenes, iconos, textos tambien centrados, Recordar hacerlo para un aprendiz de programacion y comentale el codigo.
 
 ##VIDEO DEL CANAL: https://www.youtube.com/@JuancitoPenaV
 
@@ -27,12 +27,12 @@ Recuerda, el poder de un buen prompt en ChatGPT está en tus manos. Así que, ¡
 
 ✔  No olvides suscribirte, compartir el video, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí  y me ayudas a seguir creando contenido. 💚
 
-1-🎬 Youtube:  https://www.youtube.com/@JuancitoPenaV
-2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitop...
-3-📰 Blog: https://advisertecnology.com/
-4-📷 Instagram: https://www.instagram.com/juancito.pe...
-5-📑 Facebook:https://www.facebook.com/juancito.p.v
-6-🐦 Twitter: https://twitter.com/JuancitoPenaV
+### 1-🎬 Youtube:  https://www.youtube.com/@JuancitoPenaV
+### 2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitop...
+### 3-📰 Blog: https://advisertecnology.com/
+### 4-📷 Instagram: https://www.instagram.com/juancito.pe...
+### 5-📑 Facebook:https://www.facebook.com/juancito.p.v
+### 6-🐦 Twitter: https://twitter.com/JuancitoPenaV
 
 
 ## Fotos:
